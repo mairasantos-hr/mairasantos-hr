@@ -14,12 +14,6 @@ Sou Maíra, uma Tech Recruiter apaixonada por conectar talentos a grandes oportu
 
 ---
 
-## 🛠️ Tools & Platforms | Ferramentas & Plataformas  
-- **ATS:** Gupy, InHire, LinkedIn Recruiter
-- **Onboarding & People Ops:** TeamGuide, Feedz, RD Station, Confluence, Notion, Trello   
-
----
-
 ## 🎉 Fun Facts | Curiosidades  
 
 **EN:**  
